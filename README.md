@@ -1,3 +1,9 @@
+<!-- VISITOR BADGE -->
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Prosper-Alex.Prosper-Alex" alt="visitor badge"/>
+</p>
+
+
 # 💫 About Me:
 👋 About Me<br><br>Hey there! I’m Prosper Alex, a frontend web developer based in Lagos, Nigeria, passionate about crafting clean, responsive, and user-focused web experiences.<br><br>🛠️ I’m currently working on:<br>Building interactive and responsive websites using HTML, CSS/Sass, Tailwind, and JavaScript — while exploring Python for backend basics.<br><br>🤝 I’m looking to collaborate on:<br>Frontend projects, UI/UX-focused builds, or open-source tools that make the web simpler and more accessible.<br><br>💡 I’m looking for help with:<br>Deepening my understanding of modern JavaScript, performance optimization, and clean architecture patterns.<br><br>🌱 I’m currently learning:<br>Vanilla JavaScript, Tailwind CSS, and transitioning into full-stack development with Python.<br><br>💬 Ask me about:<br>Responsive design, CSS tricks, or how to turn a basic idea into a clean, functional interface.<br><br>⚡ Fun fact:<br>I can spend hours perfecting small design details most people never notice — and I love every second of it.
 
