@@ -20,6 +20,32 @@ I value clarity, consistency, and steady progress.
 
 ---
 
+## 🧭 Quick Overview
+
+- Currently working on frontend projects and improving my React skills  
+- Open to opportunities, collaboration, and hands-on experience  
+- Focused on learning through building and practical problem-solving  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Markup**
+- HTML  
+- CSS  
+- JavaScript  
+
+**Styling & UI**
+- Sass (SCSS)  
+- Bootstrap  
+- Tailwind CSS  
+
+**Libraries & Tools**
+- React  
+- GSAP  
+
+---
+
 ## 🧩 What You’ll Find Here
 
 - Frontend-focused projects  
@@ -31,7 +57,7 @@ I value clarity, consistency, and steady progress.
 
 ## 🏷️ Tags
 
-`Frontend Development` • `Web` • `UI` • `JavaScript` • `React` • `TypeScript` • `Open to Opportunities`
+`Frontend Development` • `Web` • `UI` • `JavaScript` • `React` • `CSS` • `Open to Opportunities`
 
 ---
 
