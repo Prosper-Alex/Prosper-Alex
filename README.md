@@ -15,7 +15,7 @@ I value clarity, consistency, and steady progress.
 
 ## 🔗 Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prosper%20Alex-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prosperalex/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prosper%20Alex-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prosper-alex-442b50348)  
 [![Email](https://img.shields.io/badge/Email-prosperalex0110@gmail.com-555?style=flat&logo=gmail&logoColor=white)](mailto:prosperalex0110@gmail.com)
 
 ---
